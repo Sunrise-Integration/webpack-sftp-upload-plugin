@@ -3,7 +3,7 @@ SFTP Upload Plugin for Webpack
 
 ## Installation
 ```bash
-npm i -D webpack-sftp-upload-plugin
+npm i -D sftp-upload-webpack
 ```
 
 ## Usage
