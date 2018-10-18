@@ -1,0 +1,28 @@
+{
+  "name": "webpack-sftp-upload-plugin",
+  "version": "1.0.0",
+  "description": "SFTP Upload Plugin for Webpack 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunrise-Integration/webpack-sftp-upload-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "sftp",
+    "upload"
+  ],
+  "author": "Matthew McKey (Sunrise Integration)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sunrise-Integration/webpack-sftp-upload-plugin/issues"
+  },
+  "homepage": "https://github.com/Sunrise-Integration/webpack-sftp-upload-plugin#readme",
+  "dependencies": {
+    "sftp-node": "0.0.8"
+  }
+}
